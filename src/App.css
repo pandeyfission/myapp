@@ -1,0 +1,109 @@
+/* Home Section Styles start here */
+.home-image {
+  width: 125vh;
+  height: 100vh;
+}
+
+.image-container {
+  text-align: center;
+}
+/* Home Section Styles end here */
+
+/* Project Section Styles start here */
+.projects-container {
+  text-align: center;
+  flex-wrap: wrap;
+}
+
+.projects-img {
+  width: 60vh;
+  height: 30vh;
+  padding: 20px;
+  resize: both;
+}
+/* Project Section Styles end here */
+
+/* Education Section Styles start here */
+.education-container {
+  text-align: center;
+  justify-content: center;
+}
+
+.paper {
+  text-align: center;
+  padding: 10px;
+}
+/* Education Section Styles start here */
+
+/* Skill Section Styles start here */
+.skills-container {
+  text-align: center;
+}
+
+.skills-img-container {
+  max-width: '80%';
+}
+
+.skills-img {
+  width: 60vh;
+  height: 30vh;
+  padding: 20px;
+  resize: both;
+  background-color: transparent;
+}
+
+.skills-item {
+  list-style: none;
+}
+/* Skill Section Styles end here */
+
+/* Contact Section Styles starts here */
+.contact-container {
+  background-color: #282c34;
+  color: white;
+  text-align: center;
+}
+
+.contact-content {
+  background-color: #282c34;
+  color: white;
+  text-align: center;
+}
+/* Contact Section Styles ends here */
+
+/* Common Style starts here */
+
+.App {
+  text-align: center;
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 10vh;
+  flex-direction: row;
+  align-items: center;
+  justify-content: start;
+  font-size: calc(10px + 2vmin);
+  color: white;
+  position: fixed;
+  top: 0;
+  width: 100%
+}
+
+.header-menu {
+  float: right;
+  margin-right: 20px;
+}
+
+.menu-item {
+  padding-right: 25px;
+  user-select:none;
+}
+
+.mt-20 {
+  margin-top: 20px;
+}
+
+.mb-20 {
+  margin-bottom: 20px;
+}
