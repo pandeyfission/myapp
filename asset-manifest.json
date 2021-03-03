@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/pandeyfission.github.io/static/css/main.c99158d4.chunk.css",
+    "main.js": "/pandeyfission.github.io/static/js/main.67d0f3c4.chunk.js",
+    "main.js.map": "/pandeyfission.github.io/static/js/main.67d0f3c4.chunk.js.map",
+    "runtime-main.js": "/pandeyfission.github.io/static/js/runtime-main.9deb057f.js",
+    "runtime-main.js.map": "/pandeyfission.github.io/static/js/runtime-main.9deb057f.js.map",
+    "static/js/2.f25c4889.chunk.js": "/pandeyfission.github.io/static/js/2.f25c4889.chunk.js",
+    "static/js/2.f25c4889.chunk.js.map": "/pandeyfission.github.io/static/js/2.f25c4889.chunk.js.map",
+    "static/js/3.acf98a3a.chunk.js": "/pandeyfission.github.io/static/js/3.acf98a3a.chunk.js",
+    "static/js/3.acf98a3a.chunk.js.map": "/pandeyfission.github.io/static/js/3.acf98a3a.chunk.js.map",
+    "index.html": "/pandeyfission.github.io/index.html",
+    "static/css/main.c99158d4.chunk.css.map": "/pandeyfission.github.io/static/css/main.c99158d4.chunk.css.map",
+    "static/js/2.f25c4889.chunk.js.LICENSE.txt": "/pandeyfission.github.io/static/js/2.f25c4889.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9deb057f.js",
+    "static/js/2.f25c4889.chunk.js",
+    "static/css/main.c99158d4.chunk.css",
+    "static/js/main.67d0f3c4.chunk.js"
+  ]
+}
