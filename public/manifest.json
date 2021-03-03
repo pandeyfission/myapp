@@ -1,7 +1,7 @@
 {
   "short_name": "React App",
   "name": "Create React App Sample",
-  "homepage": "https://pandeyfission.github.io/",
+  "homepage": "https://pandeyfission.github.io/pandeyfission.github.io/",
   "dependencies": {
 		"gh-pages": "^2.0.1",
 		"react": "^16.8.3",
