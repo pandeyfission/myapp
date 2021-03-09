@@ -1,22 +1,35 @@
 {
   "files": {
-    "main.css": "/myapp/static/css/main.c99158d4.chunk.css",
-    "main.js": "/myapp/static/js/main.ddb1efa1.chunk.js",
-    "main.js.map": "/myapp/static/js/main.ddb1efa1.chunk.js.map",
-    "runtime-main.js": "/myapp/static/js/runtime-main.20d353e3.js",
-    "runtime-main.js.map": "/myapp/static/js/runtime-main.20d353e3.js.map",
-    "static/js/2.bb7de91f.chunk.js": "/myapp/static/js/2.bb7de91f.chunk.js",
-    "static/js/2.bb7de91f.chunk.js.map": "/myapp/static/js/2.bb7de91f.chunk.js.map",
-    "static/js/3.ce392af3.chunk.js": "/myapp/static/js/3.ce392af3.chunk.js",
-    "static/js/3.ce392af3.chunk.js.map": "/myapp/static/js/3.ce392af3.chunk.js.map",
+    "main.css": "/myapp/static/css/main.f24f4015.chunk.css",
+    "main.js": "/myapp/static/js/main.6edeaa45.chunk.js",
+    "main.js.map": "/myapp/static/js/main.6edeaa45.chunk.js.map",
+    "runtime-main.js": "/myapp/static/js/runtime-main.2c1fd9c9.js",
+    "runtime-main.js.map": "/myapp/static/js/runtime-main.2c1fd9c9.js.map",
+    "static/js/2.a1d69d56.chunk.js": "/myapp/static/js/2.a1d69d56.chunk.js",
+    "static/js/2.a1d69d56.chunk.js.map": "/myapp/static/js/2.a1d69d56.chunk.js.map",
+    "static/js/3.291f1a77.chunk.js": "/myapp/static/js/3.291f1a77.chunk.js",
+    "static/js/3.291f1a77.chunk.js.map": "/myapp/static/js/3.291f1a77.chunk.js.map",
     "index.html": "/myapp/index.html",
-    "static/css/main.c99158d4.chunk.css.map": "/myapp/static/css/main.c99158d4.chunk.css.map",
-    "static/js/2.bb7de91f.chunk.js.LICENSE.txt": "/myapp/static/js/2.bb7de91f.chunk.js.LICENSE.txt"
+    "static/css/main.f24f4015.chunk.css.map": "/myapp/static/css/main.f24f4015.chunk.css.map",
+    "static/js/2.a1d69d56.chunk.js.LICENSE.txt": "/myapp/static/js/2.a1d69d56.chunk.js.LICENSE.txt",
+    "static/media/ashutosh.d6c01b6a.png": "/myapp/static/media/ashutosh.d6c01b6a.png",
+    "static/media/d3js.38444535.png": "/myapp/static/media/d3js.38444535.png",
+    "static/media/datascience.b9b55da4.jpg": "/myapp/static/media/datascience.b9b55da4.jpg",
+    "static/media/forest-path-Xlarge-4160x6240.c1797e21.jpg": "/myapp/static/media/forest-path-Xlarge-4160x6240.c1797e21.jpg",
+    "static/media/forest-path-large-2400x3600.f7a8db6f.jpg": "/myapp/static/media/forest-path-large-2400x3600.f7a8db6f.jpg",
+    "static/media/forest-path-medium-1820x2880.d5eb8a52.jpg": "/myapp/static/media/forest-path-medium-1820x2880.d5eb8a52.jpg",
+    "static/media/forest-path-small-640x960.8c2c1852.jpg": "/myapp/static/media/forest-path-small-640x960.8c2c1852.jpg",
+    "static/media/healthcare.b4173170.jpg": "/myapp/static/media/healthcare.b4173170.jpg",
+    "static/media/home.2485f3be.jpg": "/myapp/static/media/home.2485f3be.jpg",
+    "static/media/investment.d83edc21.jpg": "/myapp/static/media/investment.d83edc21.jpg",
+    "static/media/jquery.fb91f03a.png": "/myapp/static/media/jquery.fb91f03a.png",
+    "static/media/mobileapp.657146fe.jpg": "/myapp/static/media/mobileapp.657146fe.jpg",
+    "static/media/reactjs.396d3bf9.png": "/myapp/static/media/reactjs.396d3bf9.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.20d353e3.js",
-    "static/js/2.bb7de91f.chunk.js",
-    "static/css/main.c99158d4.chunk.css",
-    "static/js/main.ddb1efa1.chunk.js"
+    "static/js/runtime-main.2c1fd9c9.js",
+    "static/js/2.a1d69d56.chunk.js",
+    "static/css/main.f24f4015.chunk.css",
+    "static/js/main.6edeaa45.chunk.js"
   ]
 }
