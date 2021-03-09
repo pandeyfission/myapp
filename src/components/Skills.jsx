@@ -1,40 +1,48 @@
 import React, { PureComponent } from 'react'
 
+import htmlcssIMG from '../assets/images/css3html55.png';
+import js from '../assets/images/js2.png';
+import jQuery from '../assets/images/jquery.png';
+import react from '../assets/images/reactjs.png';
+import reactNative from '../assets/images/reactnative.png';
+import d3 from '../assets/images/d3js.png';
+
 export default class Skills extends PureComponent {
     render() {
+        console.log(htmlcssIMG);
         const tileData = [
             {
-                img: 'images/css3html55.png',
+                img: htmlcssIMG,
                 title: 'HTML5CSS3',
                 author: 'author',
                 cols: 2,
             },
             {
-                img: 'images/js2.png',
+                img: js,
                 title: 'Javascript',
                 author: 'author',
                 cols: 2,
             },
             {
-                img: 'images/jquery.png',
+                img: jQuery,
                 title: 'Jquery',
                 author: 'author',
                 cols: 2,
             },
             {
-                img: 'images/reactjs.png',
+                img: react,
                 title: 'ReactJS',
                 author: 'author',
                 cols: 2,
             },
             {
-                img: 'images/reactnative.png',
+                img: reactNative,
                 title: 'ReactNative',
                 author: 'author',
                 cols: 2,
             },
             {
-                img: 'images/d3js.png',
+                img: d3,
                 title: 'D3JS',
                 author: 'author',
                 cols: 2,
