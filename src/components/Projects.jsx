@@ -1,28 +1,33 @@
-import React, { PureComponent } from 'react'
+import React, { PureComponent } from 'react';
+
+import investment from '../assets/images/investment.jpg';
+import datascience from '../assets/images/datascience.jpg';
+import healthcare from '../assets/images/healthcare.jpg';
+import mobileapp from '../assets/images/mobileapp.jpg';
 
 export default class Projects extends PureComponent {
     render() {
         const tileData = [
             {
-                img: 'images/investment.jpg',
+                img: investment,
                 title: 'Investment',
                 author: 'author',
                 cols: 2,
             },
             {
-                img: 'images/datascience.jpg',
+                img: datascience,
                 title: 'Datascience',
                 author: 'author',
                 cols: 2,
             },
             {
-                img: 'images/healthcare.jpg',
+                img: healthcare,
                 title: 'Healthcare',
                 author: 'author',
                 cols: 2,
             },
             {
-                img: 'images/mobileapp.jpg',
+                img: mobileapp,
                 title: 'MobileApp',
                 author: 'author',
                 cols: 2,

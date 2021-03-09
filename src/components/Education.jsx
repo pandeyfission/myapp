@@ -35,8 +35,8 @@ export default class Education extends PureComponent {
                     {
                         education.map(item => {
                             return (
-                                <Grid key={item.title} container spacing={3}>
-                                    <Grid item xs={3}></Grid>
+                                <Grid key={item.title} container spacing={3} className="cons" >
+                                    {/* <Grid item xs={3}></Grid> */}
                                     <Grid item xs={6}>
                                         <Paper className="paper">
                                             <Typography variant="h6" gutterBottom>
@@ -53,7 +53,7 @@ export default class Education extends PureComponent {
                                             </Typography>
                                         </Paper>
                                     </Grid>
-                                    <Grid item xs={3}></Grid>
+                                    {/* <Grid item xs={3}></Grid> */}
                                 </Grid>
                                 
                             )
